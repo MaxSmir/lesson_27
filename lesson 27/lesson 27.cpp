@@ -41,6 +41,7 @@ public:
     }
 
 
+
     ~Tutorial27()
     {
         SAFE_DELETE(m_pLightingTechnique);
